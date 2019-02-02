@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     List<String> s = new ArrayList<>();
+    List<String> s2 = new ArrayList<>();
 
   }
 }
