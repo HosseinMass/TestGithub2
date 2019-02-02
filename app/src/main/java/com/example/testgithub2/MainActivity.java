@@ -3,6 +3,9 @@ package com.example.testgithub2;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class MainActivity extends AppCompatActivity {
 
   @Override
@@ -24,6 +27,9 @@ public class MainActivity extends AppCompatActivity {
     float n2 = 3.9f;
 
     double m = 3.7687678;
+
+    List<String> s = new ArrayList<>();
+    List<String> s2 = new ArrayList<>();
 
   }
 }
