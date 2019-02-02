@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     int number2  = 2;
     float n = 2.5f;
 
+    double m = 3.7687678;
 
   }
 }
