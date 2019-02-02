@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
       i++;
     }
 
-    String test = "alo";
 
   }
 }
