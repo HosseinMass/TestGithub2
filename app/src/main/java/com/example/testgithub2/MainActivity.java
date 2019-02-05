@@ -13,23 +13,5 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    //test branch 2
-
-    for (int i = 0; i < 10; i++) {
-      i++;
-    }
-
-    //comment
-
-    int number  = 2;
-    int number2  = 2;
-    float n = 2.5f;
-    float n2 = 3.9f;
-
-    double m = 3.7687678;
-
-    List<String> s = new ArrayList<>();
-    List<String> s2 = new ArrayList<>();
-
   }
 }

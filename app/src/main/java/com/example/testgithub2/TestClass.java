@@ -7,8 +7,6 @@ public class TestClass {
 
   public void updateMethod(){
 
-    int t = 5;
-    int t1 = 6;
 
   }
 }
