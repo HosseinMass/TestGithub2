@@ -15,14 +15,7 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    String test = "test";
-
-    int num = 2;
-
-    if (num == 3) {
-
-      Log.i(TAG, "onCreate: " + num);
-    }
-
+    //s
+    //s
   }
 }
